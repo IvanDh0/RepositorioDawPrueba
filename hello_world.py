@@ -4,6 +4,7 @@
 
 
 
-for i in range(0,5):
-    print("Primero estar atento, luego copiar")
+
+for i in range(0,33):
+  print("Primero estar atento, luego copiar")
     
